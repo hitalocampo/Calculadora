@@ -13,7 +13,7 @@ function calcular() {
         case 'x':
                 calculo = anterior * actual;
             break;
-        case '%':
+        case '/':
             calculo = anterior / actual;
             break;
         default:
